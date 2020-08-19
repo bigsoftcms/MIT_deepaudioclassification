@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sssueing/Documents/accordion/deepaudio/DeepAudioClassification/musicDNN.tflearn"
+all_model_checkpoint_paths: "/home/sssueing/Documents/accordion/deepaudio/DeepAudioClassification/musicDNN.tflearn"
